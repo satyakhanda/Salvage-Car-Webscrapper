@@ -8,7 +8,7 @@ A webscrapper that searches Craigslist for salvage cars and automatically sends 
 - Python
 - AWS
 - HTML
-- SQl and Querying
+- SQL and Querying
 - Enviornmental Variables
 - Webscraping 
 
